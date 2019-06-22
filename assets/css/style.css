@@ -79,6 +79,7 @@ article {
 .left {
   float: left;
   margin: 10px 25px 10px 0px;
+  max-width: 250px;
 }
 footer {
   background-color: #666666;
